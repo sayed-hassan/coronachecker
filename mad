@@ -1,0 +1,12 @@
+symtom1 = input("is favour? ")
+symtom2 = input(" do you have sordi?")
+symtom3 = input("do you have kashi?")
+symtom4 = input("do you have golabetha?")
+symtom5 = input("do you have buke btha?")
+
+
+if symtom1 == "yes" and symtom2 == "yes" and symtom3 == "yes" and symtom4 == "yes" and symtom5 == "yes":
+    print(" Corona positive")
+
+else:
+    print("corona negetive")
